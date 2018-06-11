@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/httpcore-nio-4.4.9.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/httpasyncclient-4.0-beta4.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/eclipse-workspace/remot3api/src/remot3api/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/dominik/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
